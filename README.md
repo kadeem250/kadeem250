@@ -2,7 +2,7 @@
 - 👀 I’m interested in Finance and Programming to make my life easier or automated
 - 🌱 I’m currently learning Python. 
 - 📫 How to reach me :  
-LinkedIn(https://www.linkedin.com/in/kadeemj)
+[LinkedIn](https://www.linkedin.com/in/kadeemj)
 
 
 <!---
