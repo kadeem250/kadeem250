@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Python. 
 - 📫 How to reach me :  
 [LinkedIn](https://www.linkedin.com/in/kadeemj)
-[Tableau] (https://public.tableau.com/app/profile/kadeem.j8701)
+
+-[Tableau] (https://public.tableau.com/app/profile/kadeem.j8701)
 
 
 <!---
